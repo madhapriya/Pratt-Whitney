@@ -1,21 +1,5 @@
 # DSA Interview Preparation – Easy and Optimal Java + Python Solutions
 
-**Complete guide based on the 12-topic practice list supplied.**  
-Languages: Java and Python. Each approach has its own numbered, step-by-step dry run shared by its Java and Python implementations. Every problem also includes two additional input/output examples.
-
-## How to use this guide
-
-Each problem begins with the requested sections 1–5 (statement, input/output, constraints, examples, and pattern recognition). The sections that follow provide the easy/brute-force approach, optimal approach, dry run, Java and Python code, and complexity. For sorting topics, each sorting algorithm is presented as its own practice problem.
-1. Read the problem and identify input/output.
-2. Explain the straightforward approach.
-3. Identify its time/space cost.
-4. Explain the optimized pattern and why it works.
-5. Dry-run a sample.
-6. Write Java and Python.
-7. Test edge cases and state complexity.
-
-**Interview answer format:** “The straightforward approach is ___. It takes ___. We can optimize it using ___. The optimized algorithm works by ___. Its time complexity is ___ and auxiliary space is ___.”
-
 ## Contents
 1. Arrays · 2. Strings · 3. Hashing · 4. Searching · 5. Sorting · 6. Two Pointers · 7. Sliding Window · 8. Linked Lists · 9. Stack · 10. Queue · 11. Recursion · 12. Trees · 13. Pattern cheat sheet · 14. Complexity reference
 
